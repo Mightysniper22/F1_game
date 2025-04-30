@@ -1,0 +1,17 @@
+Více funkcí
+Zvýšení času s koly (opotřebením) - doporučení
+Databáze JSON - řidiči a týmy
+Koeficienty podle Loru
+Class track
+Přepsat do aj
+Double box Ai moc často
+Seřazení doporučování na začátku
+Dopručování i AI
+Režim úspory pneu
+Uprage v průběhu sezony
+Dopuručení stintu na mokro
+trate ruzne DNF pravdepodobnost
+Radon + pylint + mccabe
+Pravděpodobnosti počasí
+Dešt box problem AI
+Upozernění na těsné výsledky
